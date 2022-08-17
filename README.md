@@ -6,29 +6,18 @@ Analyzed historical monthly sales data of a company. Created multiple forecast m
 
 Forecasting Models used-
 
--Linear Regression
-
--Naive Bayes
-
--Simple Average
-
--2-pt Moving Average
-
--4-pt Moving Average
-
--6-pt Moving Average
-
--9-pt Moving Average
-
--Single Exponential Smoothing
-
--Double Exponential Smoothing (Holt’s Model)
-
--Triple Exponential Smoothing (Holt-Winter Model)
-
--ARIMA / SARIMA (Auto fitted)
-
--ARIMA / SARIMA (Manually fitted)
+- Linear Regression
+- Naive Bayes
+- Simple Average
+- 2-pt Moving Average
+- 4-pt Moving Average
+- 6-pt Moving Average
+- 9-pt Moving Average
+- Single Exponential Smoothing
+- Double Exponential Smoothing (Holt’s Model)
+- Triple Exponential Smoothing (Holt-Winter Model)
+- ARIMA / SARIMA (Auto fitted)
+- ARIMA / SARIMA (Manually fitted)
 
 Metric used for Comparision on models is --> RMSE on Test data
 
